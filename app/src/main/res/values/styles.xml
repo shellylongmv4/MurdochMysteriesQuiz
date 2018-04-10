@@ -1,0 +1,82 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#7D452D</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">#FFF9DF</item>
+    </style>
+
+    <!-- Style of the body of text. -->
+    <style name="TextBody">
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginLeft">24dp</item>
+        <item name="android:layout_marginRight">24dp</item>
+        <item name="android:layout_marginBottom">24dp</item>
+        <item name="android:textColor">#FFF9DF</item>
+    </style>
+
+    <!-- Style of the EditText. -->
+    <style name="EditTextBody">
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginLeft">24dp</item>
+        <item name="android:layout_marginRight">24dp</item>
+        <item name="android:layout_marginBottom">24dp</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:textColor">#FFF9DF</item>
+        <item name="android:backgroundTint">#FFF9DF</item>
+    </style>
+
+    <!-- Style of the body of text after checkboxes or radio buttons. -->
+    <style name="TextBody.AfterBoxes">
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_margin">24dp</item>
+        <item name="android:textColor">#FFF9DF</item>
+    </style>
+
+    <!-- Style of the TextView related to the EditText field. -->
+    <style name="TextBody.EditText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginLeft">24dp</item>
+        <item name="android:layout_marginRight">24dp</item>
+        <item name="android:textColor">#FFF9DF</item>
+    </style>
+
+    <!-- Style for the checkboxes on left hand side of screen. -->
+    <style name="BoxesLeft">
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginLeft">36dp</item>
+        <item name="android:textColor">#FFF9DF</item>
+        <item name="android:buttonTint">#FFF9DF</item>
+    </style>
+
+    <!-- Style for the checkboxes on right hand side of screen. -->
+    <style name="BoxesRight">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#FFF9DF</item>
+        <item name="android:buttonTint">#FFF9DF</item>
+    </style>
+
+    <!-- Style for the radio buttons. -->
+    <style name="RadioButtons"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginLeft">36dp</item>
+        <item name="android:textColor">#FFF9DF</item>
+        <item name="android:buttonTint">@color/radioButton</item>
+    </style>
+
+    <!-- Style for the buttons. -->
+    <style name="Buttons">
+        <item name="android:textSize">24sp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@drawable/button3</item>
+        <item name="android:textColor">#FFF9DF</item>
+        <item name="android:buttonTint">@color/radioButton</item>
+    </style>
+
+</resources>

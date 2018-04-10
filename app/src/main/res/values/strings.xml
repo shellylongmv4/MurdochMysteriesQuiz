@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Murdoch Mysteries Quiz</string>
+
+    <!-- User Name EditText hint [CHAR LIMIT=NONE] -->
+    <string name="user_name_edittext_hint">Enter Your Name</string>
+
+    <!-- Instructions [CHAR LIMIT=NONE] -->
+    <string name="instructions">Answer the following questions about the television show Murdoch Mysteries.</string>
+
+    <!-- Question one [CHAR LIMIT=NONE] -->
+    <string name="question_one">1.  In what city does the show take place?</string>
+
+    <!-- Question two [CHAR LIMIT=NONE] -->
+    <string name="question_two">2.  What are the names of Constable George Crabtree\'s Aunts? Select all that apply.</string>
+
+    <!-- Checkbox answers for question two, Constible George Crabtree's Aunts. [CHAR LIMIT=12] -->
+    <string name="answer_two_begonia">Begonia</string>
+    <string name="answer_two_marigold">Marigold</string>
+    <string name="answer_two_eve">Eve</string>
+    <string name="answer_two_charlotte">Charlotte</string>
+    <string name="answer_two_grace">Grace</string>
+    <string name="answer_two_azalea">Azalea</string>
+
+    <!-- Question three [CHAR LIMIT=NONE] -->
+    <string name="question_three">3.  What was the name of the criminal that buried Dr. Ogden alive?</string>
+
+    <!-- Radio button answers for question three, criminal that buried Dr. Ogden alive. [CHAR LIMIT=15] -->
+    <string name="answer_three_meyers">Terence Meyers</string>
+    <string name="answer_three_pendrick">James Pendrick</string>
+    <string name="answer_three_gillies">James Gillies</string>
+    <string name="answer_three_pearce">Eva Pearce</string>
+
+    <!-- Question four [CHAR LIMIT=NONE] -->
+    <string name="question_four">4.  Station House no.4 calls fingerprints, finger ___________?</string>
+    <string name="answer_question_four">Marks</string>
+
+    <!-- Question five [CHAR LIMIT=NONE] -->
+    <string name="question_five">5.  What famous historical figures appear in episodes throughout the series?  Check all that apply.</string>
+
+    <!-- Checkbox answers for question five, famous historical figures. [CHAR LIMIT=15] -->
+    <string name="answer_five_tesla">Nikola Tesla</string>
+    <string name="answer_five_ford">Henry Ford</string>
+    <string name="answer_five_oakley">Annie Oakley</string>
+    <string name="answer_five_london">Jack London</string>
+    <string name="answer_five_houdini">Harry Houdini</string>
+    <string name="answer_five_wells">H. G. Wells</string>
+
+    <!-- Question six [CHAR LIMIT=NONE] -->
+    <string name="question_six">6.  What hobby does Inspector Brackenreid take up?</string>
+
+    <!-- Question seven [CHAR LIMIT=NONE] -->
+    <string name="question_seven">7.  Dr. Ogden gives up her position at the morgue and her physician\'s practice to become what?</string>
+
+    <!-- Radio button answers for question seven, Dr. Ogden new career. [CHAR LIMIT=20] -->
+    <string name="answer_seven_investigator">Private Investigator</string>
+    <string name="answer_seven_alienist">Alienist</string>
+    <string name="answer_seven_actress">Actress</string>
+    <string name="answer_seven_mother">Mother</string>
+
+    <!-- Question eight [CHAR LIMIT=NONE] -->
+    <string name="question_eight">8.  Dr. Ogden and Constable George Crabtree join a nudist colony?</string>
+
+    <!-- Radio button answers for question eight, and Constable George Crabtree join a nudist colony. [CHAR LIMIT=20] -->
+    <string name="answer_eight_true">True</string>
+    <string name="answer_eight_false">False</string>
+
+    <!-- Question nine [CHAR LIMIT=NONE] -->
+    <string name="question_nine">9.  Detective Murdoch and Ruby Ogden went as what characters at the Alice in Wonderland Party?  Check all that apply.</string>
+
+    <!-- Checkbox answers for question nine, Alice in Wonderland characters. [CHAR LIMIT=15] -->
+    <string name="answer_nine_hatter">Mad Hatter</string>
+    <string name="answer_nine_queen">Queen of Hearts</string>
+    <string name="answer_nine_turtle">Mock Turtle</string>
+    <string name="answer_nine_alice">Alice</string>
+    <string name="answer_nine_cat">Cheshire Cat</string>
+    <string name="answer_nine_frog">Frog Footman</string>
+
+    <!-- Question ten [CHAR LIMIT=NONE] -->
+    <string name="question_ten">10.  Dr. Ogden and Inspector Murdoch, in the name of science, conduct an experiment with the Green Fairy. What is the Green Fairy?</string>
+
+    <!-- Submit Answers Button [CHAR LIMIT=15] -->
+    <string name="submit_answers_button">submit answers</string>
+
+    <!-- Reset Quiz Button [CHAR LIMIT=15] -->
+    <string name="try_again_button">try quiz again</string>
+
+
+
+</resources>
